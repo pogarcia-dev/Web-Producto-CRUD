@@ -9,7 +9,7 @@ Este proyecto está organizado para separar de forma clara:
 - **Modelo**: Clases POCO (Plain Old CLR Object) en C# que representan las tablas de la base de datos.
 - **Vista**: Páginas Razor para la interfaz de usuario.
 - **Controlador**: Clases cuyas acciones responden a solicitudes HTTP, validan entrada y orquestan la lógica.
-- **DAO**: Clases encargadas de realizar operaciones CRUD (Create, Read, Update, Delete) usando ADO.NET o Entity Framework.
+- **DAO**: Clases encargadas de realizar operaciones CRUD (Create, Read, Update, Delete) usando ADO.NET.
 
 ## ⚙️ Tecnologías y herramientas
 
