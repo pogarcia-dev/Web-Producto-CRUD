@@ -94,6 +94,9 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Data\DataBase.cs" />
+    <Compile Include="Data\Interfaces\ICategoria.cs" />
+    <Compile Include="Data\Interfaces\ICRUD.cs" />
+    <Compile Include="Data\Interfaces\IProducto.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

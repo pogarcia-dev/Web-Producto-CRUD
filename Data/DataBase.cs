@@ -5,6 +5,9 @@ using System.Linq;
 using System.Web;
 
 namespace ProyProductoCRUD.Data {
+    /// <summary>
+    /// Clase para manejar la conexión a la base de datos.
+    /// </summary>
     public class DataBase {
         /// <summary>
         /// Obtiene una conexión a la base de datos SQL Server.
